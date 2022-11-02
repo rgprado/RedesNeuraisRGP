@@ -2,13 +2,9 @@
 
 ### Rodrigo Prado
 
-|**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|
-|--|--|--|
-|<br>Deteção de Objetos|ex.: YOLOv5|PyTorch|
-
-|**Tipo de Projeto**|**Qtde de imagens por classe**|**Qtde de classes**|
-|--|--|--|
-| Deteção de Objetos | ~100 | 6 |
+|**Tipo de Projeto**|**Modelo Selecionado**|**Linguagem**|**Qtde de imagens por classe**|**Qtde de classes**|
+|--|--|--|--|--|
+|Deteção de Objetos|YOLOv5|PyTorch| ~100 | 6 |
 
 ### Informações Adicionais
 Classes:
@@ -42,11 +38,9 @@ Exemplo de adição de imagem:
 
 ## Roboflow
 
-Nessa seção deve colocar o link para acessar o dataset no Roboflow
-
 [Roboflow - Stree View Detection](https://app.roboflow.com/cesarschool/carviewdetection/2)
 
 ## HuggingFace
 
-Nessa seção você deve publicar o link para o HuggingFace
+HuggingFace - 
 [Cesar - Street View Detection](https://huggingface.co/spaces/rgp/Street-View-Detection)
