@@ -38,7 +38,7 @@ Exemplo de adição de imagem:
 
 ## Roboflow
 
-[Roboflow - Stree View Detection](https://app.roboflow.com/cesarschool/carviewdetection/2)
+[Roboflow - Stree View Detection](https://app.roboflow.com/cesarschool/carviewdetection/3)
 
 ## HuggingFace
 
