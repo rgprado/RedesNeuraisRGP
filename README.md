@@ -19,6 +19,17 @@ Classes:
 
 O modelo treinado possui performance de **74%**.
 
+Model summary: 157 layers, 7026307 parameters, 0 gradients, 15.8 GFLOPs
+|**Class**|**Images**|**Instances**|**P**|**R**|**mAP50**|**mAP50-95: 100% 2/2 [00:01<00:00,  1.02it/s]**|
+|:--:|:--:|:--:|:--|:--:|:--:|:--:|
+|all|        136|        264|       0.66|      0.722|      **0.736**|       0.36|
+|bike|        136     |   22  |    0.697  |    0.864 |     0.859|      0.459|
+|car|      |  136     |    87     |  0.71  |    0.667  |    0.698   |   0.489|
+|child  |      136  |       27 |     0.673 |     0.667|      0.742|      0.278|
+|man |       136 |        49|      0.646 |     0.531|      0.622|      0.233|
+|motorcycle |       136  |       45|      0.887 |     0.871|      0.894|      0.482|
+| woman |       136  |       34 |     0.348 |     0.735|      0.602|      0.216|
+
 ### Output do bloco de treinamento
 
 <details>
