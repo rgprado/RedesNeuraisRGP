@@ -2497,8 +2497,8 @@ Dataset fotos em escala de cinza
 
 ## HuggingFace
 
-HuggingFace - 
+HuggingFace 1 - 
 [Cesar - Street View Detection](https://huggingface.co/spaces/rgp/Street-View-Detection)
 
-HuggingFace - GrayScale
-[Cesar - Street View Detection](https://huggingface.co/spaces/rgp/Street-View-Detection-GrayScale)
+HuggingFace 2 - 
+[Cesar - Street View Detection - GrayScale](https://huggingface.co/spaces/rgp/Street-View-Detection-GrayScale)
