@@ -17,7 +17,20 @@ Classes:
 
 ## Performance
 
-O modelo treinado possui performance de **74%**.
+O modelo treinado possui performance de **74%**. Fotos originais coloridas.
+
+Model summary: 157 layers, 7026307 parameters, 0 gradients, 15.8 GFLOPs
+|**Class**|**Images**|**Instances**|**P**|**R**|**mAP50**|**mAP50-95: 100% 2/2 [00:01<00:00,  1.02it/s]**|
+|:--:|:--:|:--:|:--|:--:|:--:|:--:|
+|all|        136|        264|       0.66|      0.722|      **0.736**|       0.36|
+|bike|        136     |   22  |    0.697  |    0.864 |     0.859|      0.459|
+|car|      |  136     |    87     |  0.71  |    0.667  |    0.698   |   0.489|
+|child  |      136  |       27 |     0.673 |     0.667|      0.742|      0.278|
+|man |       136 |        49|      0.646 |     0.531|      0.622|      0.233|
+|motorcycle |       136  |       45|      0.887 |     0.871|      0.894|      0.482|
+| woman |       136  |       34 |     0.348 |     0.735|      0.602|      0.216|
+
+O modelo treinado com escala de cinza possui performance de **??%**.
 
 Model summary: 157 layers, 7026307 parameters, 0 gradients, 15.8 GFLOPs
 |**Class**|**Images**|**Instances**|**P**|**R**|**mAP50**|**mAP50-95: 100% 2/2 [00:01<00:00,  1.02it/s]**|
@@ -2476,8 +2489,11 @@ Validação do Modelo:
 
 
 ## Roboflow
-
+Dataset fotos coloridas
 [Roboflow - Stree View Detection](https://app.roboflow.com/cesarschool/carviewdetection/3)
+
+Dataset fotos em escala de cinza
+[Roboflow - Stree View Detection - GrayScale](https://app.roboflow.com/cesarschool/carviewdetection/4)
 
 ## HuggingFace
 
